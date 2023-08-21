@@ -1,0 +1,17 @@
+Title:Invisible Man,Author:G.B. Shaw,Subject:Mystery,Publication:01-02-2001
+Title:Silas Marner,Author:Franz Kalka,Subject:Fiction,Publication:02-05-2005
+Title:Animal Farm,Author:George Eliot,Subject:Humor,Publication:03-05-2003
+Title:Harry Potter,Author:J.K.Rowling,Subject:Mystery,Publication:15-03-2007
+Title:The Vegetarian,Author:Herodotus,Subject:History,Publication:30-06-2004
+Title:valley Of Dolls,Author:James Joyce,Subject:Horror,Publication:12-04-2016
+Title:Recasting India,Author:J.P.Narayan,Subject:History,Publication:30-01-2007
+Title:Principia,Author:Issac Newton,Subject:Science,Publication:10-12-2009
+Title:Prison Diary,Author:Jane Austen,Subject:Fantasy,Publication:28-04-2005
+Title:The Prince,Author:John Bunyan,Subject:Fiction,Publication:01-12-2001
+Title:The LowLand,Author:Heinrich Boll,Subject:Mystery,Publication:12-04-2011
+Title:Unhappy India,Author:Girish Karnad,Subject:History,Publication:12-3-2010
+Title:The GodFather,Author:Dan Brown,Subject:Fiction,Publication:19-02-2020
+Title:Silent Cry,Author:R. L. Stine,Subject:Mystery,Publication:12-03-2005
+Title:Alien Corn,Author:Sidney Howard,Subject:Fantasy,Publication:01-12-2001
+Title:Antic Hay,Author:Aldous Huxley,Subject:Fiction,Publication:12-02-2002
+Title:Behold Man,Author:Michael Moor,Subject:History,Publication:20-05-2011
